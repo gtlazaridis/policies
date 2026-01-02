@@ -1,4 +1,5 @@
 # Privacy Policy
+<sub>← [Back to all apps](../)</sub>
 
 _Last updated: January 2026_
 
