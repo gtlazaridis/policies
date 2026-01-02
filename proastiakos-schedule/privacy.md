@@ -24,4 +24,4 @@ If you have any questions about this privacy policy, you can contact:
 📧 **lazaridis.dev@gmail.com**
 
 
-← **[Back to all apps](../)**
+← **[Back](../)**
