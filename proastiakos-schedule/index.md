@@ -1,3 +1,3 @@
 # Proastiakos Schedule
 
-- [Privacy Policy](privacy.md)
+**[Privacy Policy](privacy.md)**
