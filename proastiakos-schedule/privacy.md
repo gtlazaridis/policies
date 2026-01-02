@@ -1,4 +1,4 @@
-title: Privacy Policy
+#Privacy Policy
 
 _Last updated: January 2026_
 
