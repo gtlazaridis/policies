@@ -1,3 +1,9 @@
+---
+title: Privacy Policy
+---
+
+_Last updated: January 2026_
+
 # Privacy Policy
 
 **Proastiakos Schedule** works fully offline and does not collect, store, or share any personal information.
