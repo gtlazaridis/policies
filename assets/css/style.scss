@@ -10,11 +10,27 @@
     color: #e6e6e6;
   }
 
+  /* Headings */
+  h1, h2, h3, h4 {
+    color: #ffffff;
+  }
+
+  /* Strong / bold text */
+  strong {
+    color: #ffffff;
+  }
+
+  /* Links (including email) */
   a {
     color: #7aa2f7;
   }
 
-  h1, h2, h3, h4 {
-    color: #ffffff;
+  a:hover {
+    color: #9db7ff;
+  }
+
+  /* Horizontal rules */
+  hr {
+    border-color: #2a2f3a;
   }
 }
