@@ -4,19 +4,23 @@ title: Privacy Policy
 
 _Last updated: January 2026_
 
-# Privacy Policy
-
+## Overview
 **Proastiakos Schedule** works fully offline and does not collect, store, or share any personal information.
 
+## Data Source
 All timetable data is stored locally within the app as a JSON file generated from publicly available official suburban railway timetable spreadsheets.
 
-The app does not collect:
+## Data Collection
+The app does **not** collect:
 - Personal information
 - Location data
 - Device identifiers
 - Usage or analytics data
 
-The app does not use advertisements and does not require an internet connection.
+## Advertising & Internet
+The app does not display advertisements and does not require an internet connection to function.
 
-Contact:
-lazaridis.dev@gmail.com
+## Contact
+If you have any questions about this privacy policy, you can contact:
+
+📧 **lazaridis.dev@gmail.com**
