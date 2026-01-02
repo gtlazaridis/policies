@@ -1,4 +1,4 @@
 ## Applications
 
-### Proastiakos Schedule
-- **[Privacy Policy](proastiakos-schedule/privacy.html)**
+### Proastiakos Timetable
+- **[Privacy Policy](proastiakos-timetable/privacy.html)**
