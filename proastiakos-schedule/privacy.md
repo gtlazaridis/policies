@@ -1,5 +1,4 @@
 # Privacy Policy
-← **[Back to all apps](../)**
 
 _Last updated: January 2026_
 
@@ -23,3 +22,6 @@ The app does not display advertisements and does not require an internet connect
 If you have any questions about this privacy policy, you can contact:
 
 📧 **lazaridis.dev@gmail.com**
+
+
+← **[Back to all apps](../)**
