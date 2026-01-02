@@ -1,6 +1,4 @@
-# Policies
+## Applications
 
-This site contains policy documents for my applications.
-
-## Apps
-- [Proastiakos Schedule](proastiakos-schedule/)
+### 🚆 Proastiakos Schedule
+- [Privacy Policy](proastiakos-schedule/privacy.html)
